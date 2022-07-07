@@ -3,7 +3,7 @@
 ### Quick start Guide
 
 1) Primero crear y abrir una base de datos postgresql
-2) Luego para iniciar ir al archivo .env y modificar los datos de conexion a la base de datos
+2) Luego para iniciar, ir al archivo .env y modificar los datos de conexion a la base de datos
 3) Seguidamente verificar los links en el mismo archivo .env de los csv para extraer la informacion
 4) Instalar un entorno virtual en caso de no tenerlo y luego ejecutarlo (si asi lo desea) para no tener que instalar las librerias en su ordenador
 5) Ejecutar pip install -r requirements.txt para instalar las librerias necesarias
